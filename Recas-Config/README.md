@@ -158,21 +158,37 @@ Never run computational workloads directly on the frontend.
 As stated previously, before creating and using a conda environment, you must run commands on a **compute node**, not on the frontend.
 
 The frontend **must never be used for installations or heavy operations**.  
-To access a compute node, we use **HTCondor in interactive mode**.
+It is only used to:
+- prepare files
+- submit jobs
+- manage configurations
+
+To actually work on a compute node, we use **HTCondor in interactive mode**.
+
+---
+
+### Where This Is Done
+
+All the following steps are performed **from the frontend**:
+
+- the submission file (`backend.sub`) is created **on the frontend**
+- the job is submitted **from the frontend**
+- HTCondor will then assign you a **compute node**
 
 ---
 
 ### Accessing a Compute Node (Interactive Job)
 
-To obtain an interactive session on a compute node, you need to submit a job using a submission file (e.g. `backend.sub`).
+To access a compute node, you must submit an **interactive HTCondor job**.
 
-This allows you to temporarily access a node with specific resources and keep the session open while you work.
+This gives you a temporary shell on a compute node with the resources you request, and keeps the session open while you work.
 
 ---
 
 ### Example: `backend.sub`
 
-Create a file called `backend.sub` with the following content ( or download it from the folder ) :
+Create a file called `backend.sub` **on the frontend**  
+(or download it from the repository: `files/backend.sub`).
 
 ```bash
 output = out
