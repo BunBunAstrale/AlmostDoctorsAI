@@ -19,10 +19,7 @@ These steps are mandatory before proceeding with any job submission or configura
 
 To better understand how the cluster works, let us first introduce a simple conceptual diagram.
 
-![RECAS cluster overview](recas_cluster_overview.png)
-
-
-
+![RECAS cluster overview](figures/recas_cluster_overview.png)
 
 From this diagram, it is important to note that when you log into the cluster, you are **connected to the machine called the frontend**.
 
@@ -43,7 +40,19 @@ From the frontend, you must connect to another node of the cluster, which is a s
 
 In practice, the frontend acts as an **entry point and control node**, while all intensive tasks are executed on the app
 
+## Overview – 3
 
+![RECAS cluster overview](figures/recas_cluster_overview_condor.png)
+
+Referring to the same diagram shown above, it is important to clarify how computations are actually executed on the cluster.
+
+Users **cannot directly log into compute nodes**.  
+Instead, access to computational resources (CPU or GPU nodes) is managed by the cluster scheduler.
+
+On RECAS, jobs are submitted using **HTCondor**, through the command:
+
+```bash
+condor_submit file_to_submit.sub
 
 
 ## Installation
