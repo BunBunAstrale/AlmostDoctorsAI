@@ -53,7 +53,87 @@ On RECAS, jobs are submitted using **HTCondor**, through the command:
 
 ```bash
 condor_submit file_to_submit.sub
-
+```
 
 ## Installation
+
+## Installation
+
+Before running jobs on the RECAS cluster, it is strongly recommended to install **Miniconda**, which allows you to manage Python environments and dependencies in a clean and reproducible way.
+
+---
+
+### Step 1: Download and install Miniconda
+
+Download the Miniconda installer for Linux from the official documentation:
+
+https://docs.conda.io/projects/conda/en/stable/user-guide/install/linux.html
+
+From the RECAS frontend, download the installer (example for 64-bit Linux):
+
+```bash
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+```
+
+Make the installer executable and run it:
+
+```bash
+chmod +x Miniconda3-latest-Linux-x86_64.sh
+./Miniconda3-latest-Linux-x86_64.sh
+```
+
+During the installation:
+- Accept the license agreement
+- Use the default installation path (recommended)
+- When asked whether to initialize Miniconda, answer yes
+
+### Step 2: Configure the .bashrc
+After installation, Miniconda must be properly initialized every time you open a new shell.
+Open your .bashrc file:
+```bash
+nano ~/.bashrc
+```
+
+Add the following lines at the end of the file:
+# >>> conda initialization >>>
+export PATH="$HOME/miniconda3/bin:$PATH"
+# <<< conda initialization <<<
+Save and close the file, then reload it:
+
+```bash
+source ~/.bashrc
+```
+
+Verify that conda is available:
+```bash
+conda --version
+```
+### Step 3: Create a .bash_profile
+Some login sessions use .bash_profile instead of .bashrc.
+To ensure consistent behavior across all sessions, create a .bash_profile that sources .bashrc.
+Create or edit the file:
+```bash
+nano ~/.bash_profile
+```
+Insert the following content:
+
+# Load .bashrc if it exists
+if [ -f ~/.bashrc ]; then
+    source ~/.bashrc
+fi
+Save and close the file.
+
+
+### Step 4: Ensure the base environment is always active
+Log out and log back into the cluster, or open a new terminal session.
+Verify that the base conda environment is active and available:
+which python
+conda info
+If these commands work correctly, Miniconda is properly installed and configured.
+Final Notes
+Miniconda is installed locally in your home directory and does not require administrator privileges.
+Do not install the full Anaconda distribution (too heavy for cluster usage).
+Always use conda environments for project-specific software and experiments.
+Never run computational workloads directly on the frontend.
+
 
