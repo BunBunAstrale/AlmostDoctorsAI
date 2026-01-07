@@ -55,9 +55,7 @@ On RECAS, jobs are submitted using **HTCondor**, through the command:
 condor_submit file_to_submit.sub
 ```
 
-## Installation
-
-## Installation
+## Installation - Part 1: Miniconda
 
 Before running jobs on the RECAS cluster, it is strongly recommended to install **Miniconda**, which allows you to manage Python environments and dependencies in a clean and reproducible way.
 
@@ -153,5 +151,78 @@ Miniconda is installed locally in your home directory and does not require admin
 Do not install the full Anaconda distribution (too heavy for cluster usage).
 Always use conda environments for project-specific software and experiments.
 Never run computational workloads directly on the frontend.
+
+
+## Installation – Part 2: Creating the Conda Environment
+
+As stated previously, before creating and using a conda environment, you must run commands on a **compute node**, not on the frontend.
+
+The frontend **must never be used for installations or heavy operations**.  
+To access a compute node, we use **HTCondor in interactive mode**.
+
+---
+
+### Accessing a Compute Node (Interactive Job)
+
+To obtain an interactive session on a compute node, you need to submit a job using a submission file (e.g. `backend.sub`).
+
+This allows you to temporarily access a node with specific resources and keep the session open while you work.
+
+---
+
+### Example: `backend.sub`
+
+Create a file called `backend.sub` with the following content ( or download it from the folder ) :
+
+```bash
+output = out
+error  = err
+log    = log
+
+request_cpus   = 1
+request_gpus   = 0
+request_memory = 2048
+
+getenv = true
+
+rank = Memory
+queue
+```
+
+
+#### Meaning of the Requested Resources
+request_cpus = 1
+Requests one CPU core
+request_gpus = 0
+No GPU is requested (CPU-only node)
+request_memory = 2048
+Requests 2 GB of RAM
+getenv = true
+Inherits the current environment variables
+rank = Memory
+Prefers nodes with more available memory
+
+###
+Submitting an Interactive Job
+Submit the job in interactive mode using:
+
+```bash
+condor_submit -interactive backend.sub
+```
+
+Once the job starts, you will be connected directly to a compute node with the requested resources.
+This interactive session remains open, allowing you to:
+
+install software
+create conda environments
+test commands
+prepare scripts for batch execution
+
+
+#### Important Notes on Interactive Jobs
+The more resources you request, the longer the waiting time may be.
+Always request the minimum resources needed.
+Interactive jobs are meant for setup and testing, not long computations.
+When the session ends, the node is released automatically.
 
 
