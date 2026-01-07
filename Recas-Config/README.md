@@ -111,7 +111,6 @@ unset __conda_setup
 # <<< conda initialize <<<
 ```
 
-
 Save and close the file, then reload it:
 
 ```bash
@@ -131,20 +130,25 @@ nano ~/.bash_profile
 ```
 Insert the following content:
 
-# Load .bashrc if it exists
+```bash
 if [ -f ~/.bashrc ]; then
     source ~/.bashrc
 fi
+```
 Save and close the file.
 
 
 ### Step 4: Ensure the base environment is always active
 Log out and log back into the cluster, or open a new terminal session.
 Verify that the base conda environment is active and available:
+```bash
 which python
 conda info
+```
+
 If these commands work correctly, Miniconda is properly installed and configured.
-Final Notes
+
+## Final Notes
 Miniconda is installed locally in your home directory and does not require administrator privileges.
 Do not install the full Anaconda distribution (too heavy for cluster usage).
 Always use conda environments for project-specific software and experiments.
