@@ -1,6 +1,7 @@
 # Recas Configuration Guide
 
 This document describes the configuration and setup procedures for the RECAS system.
+CIAO
 
 ## Overview
 
