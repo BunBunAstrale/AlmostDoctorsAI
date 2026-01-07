@@ -1,0 +1,14 @@
+                                                                                                               env.sub                                                                                                                              
+output=out
+error=err
+log=log
+
+request_cpus=1
+request_gpus=0
+request_memory=2048
+
+getenv = true
+
+rank=Memory
+queue
+
