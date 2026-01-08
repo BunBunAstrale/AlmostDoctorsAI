@@ -1,81 +1,91 @@
-# Wide Graph Feature Builder (`final.csv`)
+## Numero totale di feature estratte
 
-Questo script legge una serie di **matrici di connettività** (una per paziente, salvata come `.csv`) e un file di **etichette** (`labels_claudia.csv`), calcola **feature di grafo** (globali + nodali) e crea un unico dataset in formato **wide** chiamato `final.csv`, pronto per ML.
-
----
-
-## Input
-
-- **`LABELS_CSV`**: CSV con colonne *ID paziente* e *label* (auto-detect nomi colonna più comuni; oppure puoi forzarli con `ID_COL_HINT` e `LABEL_COL_HINT`).
-- **`MAT_DIR`**: cartella contenente le matrici di ogni paziente in formato `*.csv`.
-  - Ogni file deve contenere una **matrice quadrata NxN**.
+Sia **N** il numero di nodi della matrice di connettività (matrice \(N \times N\)).
 
 ---
 
-## Assunzioni sulle matrici
+### 1. Identificativi (NON feature)
 
-Le matrici in input sono considerate **già**:
-- **simmetriche** (`A = A^T`)
-- con **diagonale nulla** (`diag(A) = 0`)
+Queste colonne sono metadati e **non fanno parte del feature space**:
 
-Lo script **non** simmetrizza e **non** forza la diagonale a zero.
-Fa solo dei controlli (warning) se trova:
-- asimmetrie sopra una tolleranza (`SYMM_TOL`)
-- diagonale non ~0 sopra una tolleranza (`SYMM_TOL`)
-
-Opzionale: se `CLIP_NEGATIVES=True`, i valori negativi vengono posti a 0.
+- `id`
+- `label`
 
 ---
 
-## Output (`final.csv`)
+### 2. Edge features (triangolo superiore)
 
-Ogni riga corrisponde a un paziente e contiene:
+Poiché le matrici sono simmetriche con diagonale nulla, il numero di edge salvati è:
 
-1. **Identificativi**
-   - `id`: ID canonizzato estratto dal nome file / stringa ID
-   - `label`: etichetta associata al paziente
+\[
+E = \frac{N(N-1)}{2}
+\]
 
-2. **Edge features (triangolo superiore)**
-   - `edge_0 ... edge_{E-1}`: tutti i valori della matrice nel **triangolo superiore** (con `k=1`, esclusa la diagonale).
-   - Nota: gli edge vengono salvati **sempre tutti** (non sogliati). La soglia `EDGE_MIN_FOR_METRICS` vale solo per calcolare le metriche.
+Colonne:
+- `edge_0, edge_1, ..., edge_{E-1}`
 
-3. **Metriche globali (`gf_*`)**
-   - `gf_n_nodes`: numero di nodi (N)
-   - `gf_binary_density`: densità binaria del grafo dopo soglia  
-     \[
-     \frac{E}{N(N-1)/2}
-     \]
-   - `gf_total_strength`: somma dei pesi (solo archi sopra soglia, triangolo superiore)
-   - `gf_mean_strength`: media della **strength** per nodo (somma pesi incidenti al nodo, sopra soglia)
-   - `gf_charpath_len_w`: lunghezza media dei cammini minimi pesata  
-     - distanza definita come `length = 1/weight`
-   - `gf_global_eff_w`: efficienza globale pesata  
-     - media di \(1/d_{ij}\) su tutte le coppie connesse
-   - `gf_transitivity_bin`: transitività (clustering globale) su grafo binario
-   - `gf_avg_weighted_clust`: media del clustering coefficient pesato
-   - `gf_n_communities`: numero comunità (greedy modularity su grafo binario, se possibile)
-   - `gf_modularity_bin`: modularità delle comunità (grafo binario, se possibile)
+**Numero di edge feature:**
 
-4. **Metriche nodali “flattened” (`*_nXXX`)**
-   Per ogni nodo vengono create colonne dedicate:
-   - `degree_bin_n000`, `strength_n000`, ..., fino a `n{N-1}`
-
-   Metriche nodali:
-   - `degree_bin`: grado sul grafo binario (archi sopra soglia)
-   - `strength`: somma pesi incidenti (sopra soglia)
-   - `clustering_w`: clustering coefficient pesato
-   - `betweenness_len`: betweenness su grafo con `length=1/weight`
-   - `eigenvector_w`: eigenvector centrality pesata (se fallisce → 0)
-   - `local_eff_bin`: efficienza locale binaria del nodo (sui vicini)
+\[
+\boxed{\frac{N(N-1)}{2}}
+\]
 
 ---
 
-## Matching ID ↔ label
+### 3. Metriche globali (`gf_*`)
 
-Gli ID vengono “canonizzati” con `canon_id()`:
-- prova a estrarre cifre dal nome file (es. `PTE_001.csv` → `1`)
-- altrimenti rimuove prefissi tipo `sub`, `patient`, `pte`, ecc.
+Metriche globali estratte per ogni paziente:
 
-Se un file matrice non trova la label corrispondente nel label file, viene **saltato**.
+1. `gf_n_nodes`
+2. `gf_binary_density`
+3. `gf_total_strength`
+4. `gf_mean_strength`
+5. `gf_charpath_len_w`
+6. `gf_global_eff_w`
+7. `gf_transitivity_bin`
+8. `gf_avg_weighted_clust`
+9. `gf_n_communities`
+10. `gf_modularity_bin`
+
+**Numero di feature globali:**
+
+\[
+\boxed{10}
+\]
 
 ---
+
+### 4. Metriche nodali “flattened” (`*_nXXX`)
+
+Per ogni nodo vengono calcolate **6 metriche nodali**:
+
+- `degree_bin`
+- `strength`
+- `clustering_w`
+- `betweenness_len`
+- `eigenvector_w`
+- `local_eff_bin`
+
+Poiché ogni metrica viene salvata **per ciascun nodo**, il numero totale di feature nodali è:
+
+\[
+\boxed{6 \times N}
+\]
+
+---
+
+## 🔢 Numero totale di feature (feature space)
+
+Escludendo `id` e `label`, il numero totale di feature per ogni paziente è:
+
+\[
+\boxed{
+\frac{N(N-1)}{2}
+\;+\;
+6N
+\;+\;
+10
+}
+\]
+
+
