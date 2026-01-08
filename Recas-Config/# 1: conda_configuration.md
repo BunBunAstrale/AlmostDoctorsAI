@@ -64,6 +64,16 @@ Before running jobs on the RECAS cluster, it is strongly recommended to install 
 
 ### Step 0: Login in the ReCas cluster
 
+If you followed the guide ![RECAS cluster overview](# 0: local_machine_config.md)
+
+Than you can do:
+
+```bash
+ssh recas
+```
+
+Otherwise: 
+
 ```bash
 ssh username@ui-al9.recas.ba.infn.it
 ```
