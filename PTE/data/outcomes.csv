@@ -1,0 +1,1152 @@
+Subject ID,Age,Sex,Type of TBI,Mechanism of TBI,Injury time,Injury Date,Date of the processed EEG file,Surgery,the total number of hours availible,the first posttrauma day of the EEG recording,Scan Date,Scan Date (days after injury),GCS field,"ES (0- none, 1 - present)","LS (0- none, 1 - present)",Outcomes (Lost to follow up -1; Expired prior to developing seizures - 2; Missing data - 3; withdrew - 4; 5 - other),Outcomes resourse is redcap ,The outcome recorded in Dr. Vespa adjudication spreadsheet ,The outcome sourse is Adreanne spreadsheet July 2025,Comments
+3_13_0051,29,Male,Closed,Direct impact: blow to head,,05/29/2018,05/30/2018,,,1,,,13,0,1,,,,,Was taking Oxcarbazepine 600 mg twice daily for prevention for the first 6 months. On the EEG there are a lot of spike activity and LPDs
+3_13_0063,29,Male,Closed,Motor vehicle traffic accident,,07/18/2018,07/20/2018,,,2,,,3,0,1,,,,,First seizure within 3-6 months
+3_13_0064,29,Male,Closed,Motorcycle non-traffic accident,,07/25/2018,07/28/2018,,,3,,,3,0,1,,1,1,,First seizure within 3-6 months
+3_13_0068,36,Male,Closed,Direct impact: blow to head,,09/09/2018,09/09/2018,,,0,,,6,1,1,,1,1,,0-7 days
+3_13_0101,50,Male,Closed,Fall from height > 1 meter (3 ft),,03/08/2019,03/12/2019,,,4,,,5,0,0,,,,,
+3_13_0114,62,Female,Closed,Peds vs. Automobile,,05/08/2019,05/09/2019,,,1,,,13,0,0,,,,,Patient was taking Keppra 500mg twice daily for prevention? for almost a year??
+3_13_0142,68,Female,Closed,Motorcycle non-traffic accident,,09/17/2019,sept 18th - sept 21th,,65,1,,,13,1,1,,1,1,,"Seizures during the first 3 months, has been taking vimpat for almost 2 years, has not been diagnosed with PTE according to the redcap/ 3-6 months according to PV"
+3_13_0180,38,Female,Crush,Peds vs. Automobile,,09/10/2020,17 Sep 2020 06:01:04,,11,6,,,3,0,1,,1,1,,First seizure - 1 year-2 years post injury
+3_14_0014,7,Female,Closed,Peds vs. Automobile,,11/27/2017,27 Nov 2017 07:15:15,,,1,,,6,0,0,,,,,"everything is complete, no major comments"
+3_14_0015,16,Male,Closed,Motor vehicle nontraffic accident,,12/02/2017,03 Dec 2017 12:12:16,,,1,,,3,0,0,,,,,"everything is complete, no major comments"
+3_14_0026,8,Male,Closed,Motor vehicle traffic accident,,02/27/2018,,,,,,,7,0,0,,,,,"everything is complete, no major comments"
+3_14_0049,17,Male,Closed,Motorcycle Nontraffic accident,,05/26/2018,,,,09/23/2019,,,3,0,1,,1,1,,first seizure- within 3 months-6 months post injury
+3_16_0013,62,Female,Closed,Peds vs. Automobile,,11/23/2017,11/23/2017,,,0,,,3,0,1,,1,1,,first seizure within 3 months-6 months post-injury. the patient has expired on 06/18/2018
+3_16_0016,13,Male,Closed,Fall from height > 1 meter (3 ft),,12/10/2017,12/11/2017,,,1,,,NA,0,0,,,,,"everything is complete, no comments"
+3_16_0017,17,Male,Closed,Motor vehicle nontraffic accident,,12/21/2017,12/22/2017,,,1,,,14,0,0,,,,,"everything is complete, no comments"
+3_16_0021,47,Male,Closed,Fall from height > 1 meter (3 ft),,02/01/2018,,,,,,,3,0,1,,1,1,,First seizure Day 7-1 month post injury. Patient Expired 10/23/2018
+3_16_0022,31,Male,Closed,Motorcycle Traffic accident,,02/02/2018,02/05/2018,,,3,,,3,0,0,,,,,"everything is complete, no comments"
+3_16_0023,27,Female,Penetrating with open depressed skull facture,Gunshot wound,,02/04/2018,02/05/2018,,,1,,,NA,0,1,,1,1,,first seizure 3 months-6 months post injury
+3_16_0027,58,Male,Closed,Other,,03/09/2018,,,,,,,13,0,0,,,,,"everything is complete, no comments"
+3_16_0033,53,Male,Closed,Motorcycle Traffic accident,,04/10/2018,,,,,,,3,1,0,,1,1,,"patients had seizures acutely and again within 1 year-2 years, according to PV - there are no late seizures"
+3_16_0036,65,Male,Closed,Motorcycle Traffic accident,,04/14/2018,,,,,,,8,0,0,,,,,"everything is complete, no comments"
+3_16_0038,22,Male,Closed,Motorcycle Traffic accident,,04/22/2018,04/23/2018,,,1,,,3,0,0,,,,,"everything is complete, no comments"
+3_16_0088,40,Male,Closed,Direct impact: blow to head,,12/16/2018,12/16/2018,,,0,check the scan,NA,5,0,0,,,,,"all good, everything is complete"
+3_16_0094,52,Female,Closed,Fall from height > 1 meter (3 ft),,01/15/2019,,,,,check the scan,NA,7,0,0,,,,, No seizures were reported. everything is complete
+3_16_0109,40,Male,Closed,Cycling accident,,04/28/2019,04/28/2019,,,0,NA,NA,5,0,1,,1,1,,first seizure within 6 months- 1 year post injury
+3_16_0122,15,Male,Closed,Cycling accident,,06/27/2019,06/28/2019,,,1,NA,NA,3,0,1,,1,1,,first seizure within 1 year-2 years post injury
+3_16_0130,15,Male,Closed,Motor vehicle traffic accident,,08/05/2019,08/06/2019,,,1,NA,NA,3,1,1,,1,1,,first seizure within 3 months-6 months post injury
+3_16_0136,44,Male,Closed,Direct impact: blow to head,,08/26/2019,,,,,NA,NA,14,0,0,,,,,"everything is complete, no comments"
+3_16_0140,42,Male,Closed,Other,,09/14/2019,,,,,NA,NA,11,0,1,,,,,first seizure within 6 months- 1 year post injury
+3_16_0144,59,Female,Closed,Peds vs. Automobile,,09/29/2019,09/30/2019,,,1,NA,NA,12,0,0,,,,,"everything is complete, no comments"
+3_16_0156,17,Male,Closed,Motor vehicle traffic accident,,11/16/2019,,,,,NA,NA,5,0,1,,1,1,,first seizure within 3 months-6 months post injury
+3_16_0158,65,Male,Closed,Ground Level Fall,,12/05/2019,12/06/2019,,,1,NA,NA,6,0,0,,,,,"everything is complete, no comments"
+3_16_0182,18,Male,NA,Direct impact: blow to head,,09/21/2020,09/21/2020,,,0,NA,NA,12,0,1,,1,1,,first seizure within 1 year-2 years post injury
+3_16_0189,66,Male,NA,Motorcycle Traffic accident,,11/02/2020,11/03/2020,,,1,NA,NA,8,0,0,,,,,"everything is complete, no comments"
+3_16_0198,26,Male,NA,Motor vehicle traffic accident,,01/31/2021,02/01/2021,,,1,NA,NA,8,0,0,,,,,"everything is complete, no comments"
+3_16_0208,31,Female,Closed,Motor vehicle traffic accident,,04/26/2021,04/27/2021,,,1,NA,NA,3,0,1,,1,1,,first seizure within 1 year-2 years post injury
+3_16_0211,70,Male,Closed,Fall from height > 1 meter (3 ft),,05/09/2021,05/09/2021,,,0,NA,NA,8,0,1,,1,1,,first seizure within 1 year-2 years post injury Keppra 500 mg BID (6/5/2022-6/7/2022)  Keppra 1000 mg BID (6/8/2022-Active) / 1-2 years according to PV
+3_16_0248,43,Female,NA,Motor vehicle traffic accident,,12/19/2021,12/20/2021,,,1,NA,NA,3,0,0,,,,,"was on Divalproex (Depakote) 500 mg tablets, 1 tab PO TID - reported at the timepoint 90 days only."
+3_17_0001,21,Female,Closed,Peds vs. Automobile,,03/20/2017,03/20/2017,,,0,NA,NA,3,1,1,,1,1,,"first seizure within the first week, then seizures repeated after the first week as well. Diagnosed with PTE"
+3_17_0003,67,Male,Closed,Fall from height > 1 meter (3 ft),,04/07/2017,04/07/2017,,,0,NA,NA,13,1,0,,1,1,,"first seizure within the first week, then seizures repeated after the first week as well. The patient expired at the time point 90 days"
+3_17_0004,22,Male,Closed,Motor vehicle traffic accident,,05/27/2017,05/28/2017,,,1,NA,NA,14,0,1,,1,1,,First seizure within 3-6 months
+3_17_0005,68,Male,Closed,Ground Level Fall,,07/18/2017,07/18/2017,,,0,NA,NA,14,1,1,,1,1,,First seizure within 3-6 months
+3_17_0007,22,Male,Closed,"Skateboard, scooter, roller skate accident",,08/22/2017,08/22/2017,1,,0,NA,NA,8,0,0,,,,,"everything is complete, no comments"
+3_17_0009,22,Male,Closed,Cycling accident,,09/17/2017,09/18/2017,,,1,NA,NA,NA,0,0,,,,,"everything is complete, no comments"
+3_17_0012,49,Male,Closed,Fall from height > 1 meter (3 ft),,11/17/2017,,,,,NA,NA,14,0,0,,,,,"everything is complete, no comments"
+3_17_0019,48,Male,Closed,Fall from height > 1 meter (3 ft),,01/13/2018,01/13/2018,,,0,NA,NA,10,0,1,,1,1,,1-3 months
+3_17_0030,84,Male,Closed,Ground Level Fall,,04/03/2018,,,,,NA,NA,12,0,0,,,,,"PO/GT since the first month, daily  Last dose 4/26/2018 21:36    No longer taking AEDs as of D730 follow up"
+3_17_0031,55,Male,Closed,Ground Level Fall,,04/07/2018,,,,,NA,NA,9,1,1,,1,1,,1-3 months
+3_17_0039,58,Male,Closed,Direct impact: blow to head,,04/21/2018,,,,,NA,NA,15,0,0,,,,,Lamictal (Lamotrigine) 250 mg QD since day 90
+3_17_0058,46,Male,Closed,"Skateboard, scooter, roller skate accident",,06/30/2018,,,,,,,14,0,0,,,,,"everything is complete, no comments"
+3_17_0060,65,Male,Closed,Direct impact: blow to head,,07/05/2018,07/05/2018,,,0,,,7,1,1,,1,1,,first seizure within Day 7-1 month post injury
+3_17_0073,24,Male,Closed,Fall from height > 1 meter (3 ft),19:00,10/02/2018,10/03/2018,,,1,,,3,0,1,,,,,first seizure within 1 year-2 years post injury
+3_17_0082,22,Male,Closed,Motor vehicle traffic accident,,11/25/2018,11/26/2018,,,1,,,3,0,0,,,,,"everything is complete, no comments"
+3_17_0089,68,Male,Closed,Fall from height > 1 meter (3 ft),,12/16/2018,12/17/2018,,,1,,,9,0,0,,1,1,,"everything is complete, no comments"
+3_17_0103,72,Male,Closed,Peds vs. Automobile,,04/11/2019,04/12/2019,,,1,,,10,0,0,,,,,"everything is complete, no comments"
+3_17_0110,47,Male,Closed,Motorcycle Nontraffic accident,,04/29/2019,04/29/2019,,,0,,,3,0,0,,,,,"everything is complete, no comments"
+3_17_0133,22,Male,Closed,Motor vehicle traffic accident,,08/18/2019,08/19/2019,,,1,,,7,0,1,,1,1,,first seizure within 1 year-2 years post injury
+3_17_0135,54,Male,Closed,Cycling accident,,08/22/2019,08/24/2019,,,2,,,9,0,0,,,,,"everything is complete, no comments"
+3_17_0139,16,Male,Closed,Cycling accident,,09/12/2019,09/13/2019,,,1,,,5,1,1,,1,1,,there were seizures according to PV
+3_17_0152,47,Male,Closed,Motorcycle Traffic accident,,10/10/2019,10/11/2019,,,1,,,8,0,1,,1,1,,first seizure within Day 7-1 month post injury
+3_17_0160,27,Male,Closed,Peds vs. Automobile,,01/19/2020,01/19/2020,,,0,,,5,0,0,,,,,"everything is complete, no comments"
+3_17_0168,33,Male,Closed,Motorcycle Traffic accident,,02/12/2020,02/13/2020,,,1,,,3,0,1,,,,,first seizure within 1 year - 2 years
+3_17_0172,37,Female,Closed,Peds vs. Automobile,,02/28/2020,02/28/2020,,,0,,,10,0,0,,,,,"everything is complete, no comments"
+3_17_0184,90,Female,Closed,Peds vs. Automobile,,09/21/2020,09/21/2020,,,0,,,14,0,0,,,,,"everything is complete, no comments"
+3_17_0209,34,Male,Closed,Direct impact: blow to head,,05/04/2021,05/06/2021,,,2,,,8,0,1,,,,,first seizure within 1 year - 2 years
+3_17_0220,29,Female,Closed,Peds vs. Automobile,,06/25/2021,,,,,,,3,1,1,,,1,,"Patient was taking AEDs per standard of care while in the ICU. levetiracetam 100mg/mL soln 500mL 6/25/2021 and midazolam IV push and bolus from drip 6/28, 6/29, 7/3, 7/6, and 7/17/2021. // 1-7 days according to PV "
+3_19_0050,50,Male,Closed,Ground Level Fall,,05/27/2018,05/31/2018,,,4,,,7,0,0,,,,,messy Ottman
+3_21_0061,30,Male,Closed,Cycling accident,,07/09/2018,,,,,,,9,0,1,,1,1,,1-3 months
+3_21_0067,71,Female,Closed,Direct impact: blow to head,,08/26/2018,,,,,,,6,0,0,,,,,no major comments
+3_21_0076,27,Male,Closed,Motorcycle Traffic accident,,10/25/2018,,,,,,,8,1,0,,1,1,,no late seizures according to PV
+3_21_0123,37,Male,Closed,Fall from height > 1 meter (3 ft),,06/28/2019,07/01/2019,,,3,,,11,1,1,,1,1,,6-12 months
+3_21_0150,27,Male,Closed,Direct impact: blow to head,,10/10/2019,10/12/2019,,,2,,,12,0,0,,,,,everything is complete
+3_21_0161,82,Male,Closed,Fall from height > 1 meter (3 ft),,01/23/2020,01/23/2020,,,0,,,14,1,0,,,,,controversial Ottman 
+3_21_0163,53,Male,Closed,Direct impact: blow to head,,01/27/2020,01/28/2020,,,1,,,5,0,1,,1,1,,first seizure within 6 months- 1 year post injury
+3_21_0175,48,Male,Closed,Cycling accident,,07/14/2020,,,,,,,5,0,1,,1,1,,"Day 7-1 month post injury. Lost to the follow up at the time point 2 years, unclear why / 7d-1 month according to PV"
+3_21_0194,30,Male,Penetrating - tangential,Motor vehicle traffic accident,,11/27/2020,,,,,,,8,0,1,,1,1,,first seizure within 1 year-2 years post injury
+3_21_0212,39,Female,Closed,Direct impact: blow to head,,05/10/2021,,,,,,,7,0,0,,,,,"no major comments, everything is complete"
+3_21_0243,22,Female,Closed,Motor vehicle traffic accident,,11/01/2021,,,,,,,9,0,1,,1,1,,first seizure 6 months- 1 year post injury. lost to the follow up at the timepoint 2 years
+3_24_0028,58,Male,Closed,Fall from height > 1 meter (3 ft),,03/14/2018,,,,,,,6,0,1,,1,1,,first seizure during 1 month-3 months post injury
+3_24_0035,25,Male,Closed,Motorcycle Traffic accident,,04/12/2018,,,,,,,14,0,0,,,,,no seizures were reported but patient was on Keppra (no other information was given) during 3-6 months? 
+3_24_0046,37,Male,Closed,Direct impact: head against object,,05/11/2018,,,,,,,3,1,1,,1,1,,first seizure 6 months- 1 year post-injury
+3_24_0053,68,Male,Closed,Direct impact: head against object,,06/06/2018,,,,,,,14,0,1,,1,1,,first seizure within 3 months-6 months post injury
+3_24_0066,22,Male,Closed,Motor vehicle traffic accident,,08/17/2018,,,,0,,,3,1,0,,1,1,,no major comments
+3_24_0072,48,Male,Closed,Peds vs. Automobile,,09/24/2018,,,,,,,NA,0,0,,1,1,,"late seizures were not reported, but patient was on keppra during first 3 months"
+3_24_0090,32,Male,Closed,Peds vs. Automobile,,12/17/2018,,,,2,,,NA,0,0,,,,,was on Keppra 750mg orally 2x daily during the first month
+3_24_0105,63,Male,Closed,Peds vs. Automobile,,04/12/2019,,,,,,,3,0,0,,,,,no major comments
+3_24_0107,20,Female,Closed,Motorcycle Traffic accident,,04/19/2019,,,,,,,NA,0,0,,,,,no major comments
+3_24_0112,42,Female,Closed,Motorcycle Traffic accident,,05/04/2019,,,,,,,7,1,1,,1,1,,first seizure - acutely and than again within 1-2 years
+3_24_0117,71,Male,Closed,Fall from height > 1 meter (3 ft),,06/05/2019,,,,,,,15,0,1,,1,1,,first seizure within 6 months- 1 year post injury
+3_24_0129,58,Female,Closed,Peds vs. Automobile,,08/01/2019,,,,,,,6,0,0,,,,,"everything is complete, no comments"
+3_24_0131,65,Male,Closed,Cycling accident,,08/15/2019,,,,,,,11,0,1,,1,1,,first seizure within 6 months- 1 year post injury
+3_24_0179,27,Male,Closed,Direct impact: blow to head,,08/23/2020,,,,,NA,NA,3,0,1,,1,1,,first seizure within 6 months- 1 year post injury
+3_24_0213,38,Male,Closed,Acceleration/Deceleration,,05/13/2021,,,,,NA,NA,3,0,1,,1,1,,first seizure within 6 months- 1 year post injury
+3_24_0233,48,Male,Closed,Motorcycle Traffic accident,,09/13/2021,,,,,NA,NA,5,0,0,,,,,"everything is complete, no comments"
+3_24_0235,30,Male,Closed,Motor vehicle traffic accident,,09/22/2021,,,,,NA,NA,9,0,0,,,,,"everything is complete, no comments"
+3_26_0080,62,Male,Closed,Peds vs. Automobile,,11/11/2018,11/14/2018,,,3,NA,NA,14,0,0,,,,,no major comments
+3_26_0084,23,Male,Closed,Other,,12/05/2018,,,,,NA,NA,8,0,0,,,,,"everything is complete, no comments"
+3_26_0092,44,Male,Closed,Motor vehicle traffic accident,,01/14/2019,,,,,NA,NA,4,0,0,,,,,"everything is complete, no comments"
+3_26_0100,60,Male,Closed,Fall from height > 1 meter (3 ft),,02/17/2019,,,,,NA,NA,13,0,1,,1,1,,7 to 30 days
+3_26_0113,44,Male,Closed,Cycling accident,,05/05/2019,,,,,NA,NA,8,0,0,,,,,no major comments
+3_26_0134,69,Male,Closed,Fall from height > 1 meter (3 ft),,08/22/2019,,,,,NA,NA,5,0,0,,,,,no major comments
+3_26_0147,33,Male,Closed,Fall from height > 1 meter (3 ft),,09/30/2019,,,,,NA,NA,13,0,0,,,,,no major comments
+3_26_0166,71,Male,Closed,Cycling accident,,02/05/2020,,,,,NA,NA,4,0,0,,,,,"everything is complete, no comments"
+3_17_0045,,,,,,,,,,,,,,0,1,,,1,,6-12 months
+3_17_0048,,,,,,,,,,,,,,1,1,,,1,,6-12 months
+3_11_0230,,,,,,09/09/2021,,,,,,,,0,1,,,1,,d7-1 month
+3_13_0119,,,,,,,,,,,,,,0,1,,,1,,6-12 months
+3_13_0229,77,Female,closed,Fall from height > 1 meter (3 ft),18:55,08/08/2021,08/09/2021,,,,,,7,1,0,,,1,1,"""She was on Keppra, son believes she no longer is on - needs to go back into the chart"". (no late seizures within 6 months) unclear why she was lost to the follow up, in the Adreanne's spreadsheet the patient is listed as lost to follow up, in the PV spreadsheet listed as no late seizures"
+3_16_0044,52,male,closed,,21:00,05/04/2018,,,,,,,7,1,0,,,1,,
+3_16_0106,72,Male,,,04-17-19,14:00,,,,,,,,1,0,,,1,1,"Patient Expired 5/7/19, this patient is also in the adjudication spreadsheet, listed as no LS"
+3_16_0239,,,,,,,,,,,,,,1,0,,,1,1,"was on ""LevETIRAcetam (KEPPRA), tablets of 2,000 mg each BID started on 10/19/2021. Gabapentin (NEURONTIN), capsules of 600 mg each EVERY 8 HOURS started on 10/19/2021"". The patient was lost to follow-up at the 180-days timepoint, no seizures within first 3 monts"
+3_21_0040,,,,,,,,,,,,,,0,1,,,1,,1-3 months
+3_21_0083,20,male,,,10:41,11/29/2018,,,,,,,,1,0,,,1,1,No evidence of PTE through clinic notes in chart and medications through 2 year post injury
+3_21_0183,67,male,,,11:40,10/26/2020,,,,,,,,1,1,,,1,,1-3 months
+3_21_0200,,,,,23:55,03/25/2021,,,,,,,,0,1,,,1,,day7to 1 month
+3_21_0210,,,,,03:00,05/08/2021,,,,,,,,0,1,,,1,,7d-1 month
+3_21_0216,,,,,19:00,05-25-21,,,,,,,,0,1,,,1,,3-6 months
+3_21_0217,,,,,21:50,05/28/2021,,,,,,,,1,0,,,1,,
+3_21_0249,24,Female,,Fall from height > 1 meter (3 ft),20:00,12-29-21,,,,,,,,0,0,,,1,1,"No evidence of PTE through clinic notes in chart and medications through 1 year post injury - according to the comment in the Adreanne's spreadsheet, in the adjudications listed as no seizures"
+3_22_0086,,,,,,,,,,,,,,1,0,,,1,,
+3_17_0164,,,,,,,,,,,,,,0,1,,,1,,1-3 months
+3_17_0242,,,,,,,,,,,,,,1,1,,,1,,day7to 1 month
+3_17_0177,58,Male,,Peds vs. Automobile,04:30,05/08/2020,,,,12/31/1899,,,,0,0,,,,1,Year 2 was completed and entered in RedCap on 8/15/2022. No seizures were reported.
+3_17_0245,,,,,,,,,,,,,,0,0,,,,1,Year 2 was completed and entered in RedCap on 11/13/2023. No seizures were reported.
+3_19_0159,,,,,,,,,,,,,,0,0,,,,1,PI confirmed that this patient did not screen positive and did not get diagnosed with PTE.
+3_19_0231,,,,,,,,,,,,,,0,0,,,,1,PI confirmed that this patient did not screen positive and did not get diagnosed with PTE.
+3_19_0241,,,,,,,,,,,,,,0,0,,,,1,PI confirmed that this patient did not screen positive and did not get diagnosed with PTE.
+3_21_0074,,,,,,,,,,,,,,0,0,,,,1,"Reviewed clinic notes through 2022 ( 3 years post injury)  no seizures , no ASM "
+3_21_0153,,,,,,,,,,,,,,0,0,,,,1,No evidence of PTE through clinic notes in chart and medications through 3 year post injury
+3_21_0187,,,,,,,,,,,,,,0,0,,,,1,No evidence of PTE through clinic notes in chart and medications through 4 year post injury
+3_21_0199,,,,,,,,,,,,,,0,0,,,,1,No evidence of PTE through clinic notes in chart and medications through 3 year post injury
+3_21_0203,,,,,,,,,,,,,,0,0,,,,1,No evidence of PTE through clinic notes in chart and medications through 3 year post injury
+3_21_0207,,,,,,,,,,,,,,1,1,,,,1,"6-12 months, YES , had seizure reported in ED  7 months post TBI - treated with ASM "
+3_21_0215,,,,,,,,,,,,,,0,0,,,,1,No evidence of PTE through clinic notes in chart and medications through 3 year post injury
+3_21_0222,,,,,,,,,,,,,,0,1,,,,1,"3-6 months, Yes, has evidence of  PTE, had seizure when seen in Neurology clinic, remains on ASM  ( currently"
+3_21_0225,,,,,,,,,,,,,,0,0,,,,1,No evidence of PTE through clinic notes in chart and medications through 3 year post injury
+3_21_0237,,,,,,,,,,,,,,0,0,,,,1,No evidence of PTE through clinic notes in chart and medications through 3 year post injury
+3_21_0240,,,,,,,,,,,,,,0,0,,,,1,No evidence of PTE through clinic notes in chart and medications through 3 year post injury
+3_21_0246,,,,,,,,,,,,,,0,0,,,,1,No evidence of PTE through clinic notes in chart and medications through 2 year post injury
+3_21_0255,,,,,,,,,,,,,,0,0,,,,1,
+3_17_0002,,,,,,,,,,,,,,NA,NA,4,1,,,"""Patient Dropped"""
+3_17_0010,,,,,,,,,,,,,,NA,NA,1,,,1,discarged at day 5
+3_17_0042,,,,,,,,,,,,,,1,0,,1,,,was on preventative 
+3_17_0059,,,,,,,,,,,,,,NA,NA,4,,,1,
+3_11_0096,,,,,,,,,,,,,,NA,NA,2,1,,,passed away
+3_11_0111,,,,,,,,,,,,,,0,NA,1,,,1,The patient was lost to follow-up. Information regarding the early seizures is based on the reported results of the EEG monitoring
+3_11_0141,,,,,,,,,,,,,,NA,NA,2,1,,,died
+3_13_0062,,,,,,,,,,,,,,0,NA,1,,,,"The patient was lost to follow-up at the 180-days timepoint, no seizures within first 3 months"
+3_13_0057,,,,,,,,,,,,,,0,NA,1,,,1,"The patient was lost to follow-up at the 180-days timepoint, no seizures within first 3 months"
+3_13_0055,,,,,,,,,,,,,,0,NA,1,,,1,"The patient was lost to follow-up at the 180-days timepoint, no seizures within first 3 months"
+3_13_0054,,,,,,,,,,,,,,0,NA,1,,,1,"The patient was lost to follow-up at the 2-year timepoint, no seizures during the first year"
+3_13_0034,,,,,,,,,,,,,,0,NA,1,,,1,"The patient was lost to follow-up at the 1-year timepoint, no seizures within first 6 months"
+3_13_0024,,,,,,,,,,,,,,0,NA,1,,,1,"The Ottman questionnaire was provided only for the first month; after that, the patient was unreachable."
+3_13_0085,,,,,,,,,,,,,,0,NA,1,,,1,"The patient was lost to follow-up at the 2-year timepoint, no seizures during the first year"
+3_13_0102,,,,,,,,,,,,,,NA,NA,2,1,,,pt deceased
+3_13_0120,,,,,,,,,,,,,,0,1,,1,,,6 months-12months
+3_13_0121,,,,,,,,,,,,,,0,NA,1,1,,,lost to the follow up at the timepoint 1 year
+3_13_0125,,,,,,,,,,,,,,0,NA,1,,,1,"The patient was lost to follow-up at the 2-year timepoint, no seizures during the first year"
+3_13_0137,,,,,,,,,,,,,,0,NA,2,1,,,pt deceased
+3_13_0155,,,,,,,,,,,,,,0,0,,1,,,complete
+3_13_0165,,,,,,,,,,,,,,0,0,,1,,,complete
+3_13_0174,,,,,,,,,,,,,,NA,NA,2,1,,,pt CMO - passed away (day 30?)
+3_13_0176,,,,,,,,,,,,,,NA,NA,2,1,,,PT CMO 10/19/21 at the tiepoint 1 year
+3_13_0223,,,,,,,,,,,,,,NA,NA,3,1,,,
+3_13_0244,,,,,,,,,,,,,,NA,NA,1,1,,,"lost to follow up at the timepoint 1 year, no seizures were reported before that"
+3_14_0006,,,,,,,,,,,,,,NA,NA,2,1,,,Patient Expired at 30 day?
+3_14_0008,,,,,,,,,,,,,,NA,NA,2,1,,1,Patient deceased 9/22/2017
+3_14_0041,,,,,,,,,,,,,,0,NA,1,,,1,"The patient was lost to follow-up at the 1-year timepoint without explanation, and the Ottman questionnaire data is missing, no seizures withing first 6 months"
+3_14_0047,,,,,,,,,,,,,,0,NA,1,,,1,"The patient was lost to follow-up at the 6-months timepoint without explanation, and the Ottman questionnaire data is missing, no seizures within first 3 months"
+3_14_0104,,,,,,,,,,,,,,NA,NA,3,,,1,the Ottman questionnaire data is missing
+3_14_0170,,,,,,,,,,,,,,NA,NA,3,,,1,the Ottman questionnaire data is missing
+3_14_0228,,,,,,,,,,,,,,0,NA,1,,,1,"The patient was lost to follow-up at the 90-days timepoint, No seizures within first moths"
+3_14_0252,,,,,,,,,,,,,,NA,NA,3,1,,,no data availivle
+3_16_0025,,,,,,,,,,,,,,0,0,,1,,,complete
+3_16_0032,,,,,,,,,,,,,,0,0,,1,,,complete
+3_16_0043,,,,,,,,,,,,,,NA,NA,3,,,1,the Ottman questionnaire data is missing
+3_16_0069,,,,,,,,,,,,,,0,0,,1,,,complete
+3_16_0070,,,,,,,,,,,,,,0,0,,1,,,complete
+3_16_0079,,,,,,,,,,,,,,0,NA,1,,,1,"no seizures within first month, lost to follow up at the 1-3 months timepoint, The patient was lost to follow-up at the 90-days timepoint"
+3_16_0091,,,,,,,,,,,,,,NA,NA,2,1,,,Pt expired 1/27/19
+3_16_0093,,,,,,,,,,,,,,NA,NA,3,1,,,missing data
+3_16_0099,,,,,,,,,,,,,,0,0,,1,,,complete
+3_16_0169,,,,,,,,,,,,,,NA,NA,2,1,,,Patient expired prior to this timepoint at 3 months
+3_16_0181,,,,,,,,,,,,,,0,NA,1,,,1,was on BID Keppra 100mg/ml Solution 1000 mg last administration 10/5/20 at 8:29 during thee first month? The patient was lost to follow-up at the 1-year timepoint
+3_16_0191,,,,,,,,,,,,,,0,0,,1,,,complete
+3_16_0192,,,,,,,,,,,,,,0,NA,1,1,,,lost to the follow up at the timepoint 2 years
+3_16_0201,,,,,,,,,,,,,,0,NA,1,,,1,"The patient was lost to follow-up at the 90-days timepoint, no seizures within first 3 months"
+3_16_0202,,,,,,,,,,,,,,0,0,,1,,,complete
+3_16_0204,,,,,,,,,,,,,,0,0,,1,,,complete
+3_16_0224,,,,,,,,,,,,,,NA,NA,2,,,1,Expired
+3_16_0253,,,,,,,,,,,,,,0,NA,3,,,1,"The Ottman data is inconsistent, with no information available after the 90-day timepoint, and it is unclear why the data is missing. no seizures within first 3 months"
+3_19_0020,,,,,,,,,,,,,,0,NA,1,1,,,lost to the follow up at the timepoint 1 year
+3_19_0029,,,,,,,,,,,,,,0,NA,5,1,,,Patient incarcerated
+3_19_0145,,,,,,,,,,,,,,NA,NA,2,1,,,Pt deceased early on
+3_19_0146,,,,,,,,,,,,,,0,0,,1,,,mostly complete
+3_19_0196,,,,,,,,,,,,,,0,NA,1,1,,,lost to folow up at the timepoint 2 years
+3_21_0056,,,,,,,,,,,,,,NA,NA,2,1,,,died early on
+3_21_0065,,,,,,,,,,,,,,0,NA,1,,,1,No evidence of PTE through clinic notes in chart and medications through 1 year post injury 
+3_21_0078,,,,,,,,,,,,,,0,NA,1,1,,,lost to folow up at the timepoint 2 years
+3_21_0097,,,,,,,,,,,,,,NA,NA,2,,,1,Expired
+3_21_0108,,,,,,,,,,,,,,NA,NA,2,1,,,moved to Cuba and expired with the exact date unkown
+3_21_0115,,,,,,,,,,,,,,0,NA,1,,,1, No evidence of PTE through clinic notes in chart and medications through 1 year post injury- moved to a different state.
+3_21_0128,,,,,,,,,,,,,,0,NA,2,,,1,Expired
+3_21_0143,,,,,,,,,,,,,,0,NA,1,1,,,lost to the follow up at the timepoint 1 year
+3_21_0162,,,,,,,,,,,,,,0,NA,2,1,,,expired at day 30 or earlier
+3_21_0167,,,,,,,,,,,,,,NA,NA,2,1,,,expired at day 30 or earlier
+3_21_0171,,,,,,,,,,,,,,NA,NA,2,1,,,expired at day 30 or earlier
+3_21_0173,,,,,,,,,,,,,,NA,NA,2,,,1,Expired
+3_21_0178,,,,,,,,,,,,,,NA,NA,2,,,1,Expired
+3_21_0185,,,,,,,,,,,,,,0,0,,1,,,complete
+3_21_0186,,,,,,,,,,,,,,0,NA,1,1,,,"lost to follow up at the timepoint 2 years, no sezires prior"
+3_21_0188,,,,,,,,,,,,,,NA,NA,2,,,1,No  evidence of seizures- had withdrawal of mechanical ventilation and died prior to first outcome measure timepoint.
+3_21_0205,,,,,,,,,,,,,,NA,NA,2,1,,,expired at day 30 or earlier
+3_21_0226,,,,,,,,,,,,,,0,0,,1,,,complete
+3_21_0227,,,,,,,,,,,,,,0,NA,2,1,,,Participant is deceased at timepoint 6 months
+3_21_0232,,,,,,,,,,,,,,NA,NA,2,1,,,expired at day 30 or earlier
+3_21_0254,,,,,,,,,,,,,,0,NA,1,1,,,lost to the follow up at the timepoint 6 months
+3_22_0037,,,,,,,,,,,,,,NA,NA,1,1,,,"""Missed milestone"" "
+3_22_0087,,,,,,,,,,,,,,NA,NA,2,1,,,deceased early on
+3_23_0018,,,,,,,,,,,,,,0,1,,,,1,Pt had a single GTC seizure on 12/10/18. ?
+3_24_0011,,,,,,,,,,,,,,NA,NA,4,1,,,visit not completed. pt's wife withdrew consent for follow-ups
+3_24_0052,,,,,,,,,,,,,,NA,NA,1,1,,,"""Patient unresponsive to follow up calls and letters """
+3_24_0071,,,,,,,,,,,,,,0,0,,1,,,complete
+3_24_0075,,,,,,,,,,,,,,NA,NA,2,1,,,Patient deceased: 11/9/2018
+3_24_0116,,,,,,,,,,,,,,0,0,,1,,,complete
+3_24_0118,,,,,,,,,,,,,,0,0,,1,,,complete
+3_24_0124,,,,,,,,,,,,,,0,NA,4,1,,,
+3_24_0126,,,,,,,,,,,,,,0,NA,2,1,,,pt deceased after D180
+3_24_0132,,,,,,,,,,,,,,NA,NA,2,1,,,Pt deceased 8/20/19 Day 6 of injury
+3_24_0149,,,,,,,,,,,,,,NA,NA,4,1,,,
+3_24_0151,,,,,,,,,,,,,,NA,NA,2,1,,,Patient deceased
+3_24_0157,,,,,,,,,,,,,,0,NA,2,,,1,Expired
+3_24_0250,,,,,,,,,,,,,,NA,NA,2,,,1,Expired
+3_24_0251,,,,,,,,,,,,,,NA,NA,2,1,,,Patient expired at day 30 or earlier
+3_25_0193,,,,,,,,,,,,,,0,0,,1,,,complete
+3_26_0077,,,,,,,,,,,,,,0,NA,1,,,1,"""lost to follow up. Attempted to contact patient on 27/10/2020, 9/12/2020 and 14/12/2020"""
+3_26_0081,,,,,,,,,,,,,,0,0,,1,,,complete
+3_26_0095,,,,,,,,,,,,,,0,NA,4,,,1,The patient withdrew from the study 6 months  timepoint
+3_26_0098,,,,,,,,,,,,,,0,NA,1,1,,,lost to follow up at 3 months
+3_26_0127,,,,,,,,,,,,,,0,NA,1,,,1,"""Unable to get onto wife"" at the 1 year timepoint"
+3_26_0138,,,,,,,,,,,,,,NA,NA,2,,,,expired early on
+3_26_0154,,,,,,,,,,,,,,0,NA,4,,,1,The patient refused to participate in the study at the 1-year timepoint. It is known that there were no seizures within the first 6 months
+3_26_0190,,,,,,,,,,,,,,0,NA,1,,,1,The patient was lost to follow-up at the 2-year timepoint
+3_26_0195,,,,,,,,,,,,,,NA,NA,2,,,1,Expired
+3_26_0197,,,,,,,,,,,,,,0,NA,3,,,1,"The patient was on Valproate 200 mg twice a day, and according to the questionnaire, no seizures were reported, No seizures within the first year, lost to the follow-up/missing info at the 2 years timepoint"
+3_26_0206,,,,,,,,,,,,,,0,NA,3,,,1,not completed - unclear reason
+3_26_0221,,,,,,,,,,,,,,NA,NA,1,1,,,lost to the follow up at 6 months
+3_26_0234,,,,,,,,,,,,,,NA,NA,3,1,,,no data regarding the outcomes
+3_26_0247,,,,,,,,,,,,,,0,NA,3,1,,,missing data for 1 year and further on
+3_17_0148,,,,,,,,,,,,,,0,NA,1,,,1,"The patient was lost to follow-up at the 2-year timepoint, no seizures during the year 1"
+3_27_0214,,,,,,,,,,,,,,NA,NA,,,,,Burdenko
+3_27_0218,,,,,,,,,,,,,,NA,NA,,,,,Burdenko
+3_27_0219,,,,,,,,,,,,,,NA,NA,,,,,Burdenko
+3_27_0236,,,,,,,,,,,,,,NA,NA,,,,,Burdenko
+3_27_0238,,,,,,,,,,,,,,NA,NA,,,,,Burdenko
+Sum,,,,,,,,,,,,,,29,61,171,113,65,64,0
+Count,,,,,,,,,,,,,97,205,161,89,113,65,64,0
+,,,,questionable lable,,,,,,,,,,,lost to follow up,35,,,,
+,,,,unusable file,,,,,,,,,,,dead,35,,,,
+,,,,depths ,,,,,,,,,,,missing data,11,,,,
+,,,,no data on IDA,,,,,,,,,,,withdrew,7,,,,
+,,,,,,,,,,,,,,,other,1,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
