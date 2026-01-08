@@ -11,23 +11,21 @@ E = N(N − 1) / 2
 Colonne:
 - `edge_0, edge_1, ..., edge_{E-1}`
 
-
 ---
 
 ### 3. Metriche globali (`gf_*`)
 
 Metriche globali estratte per ogni paziente:
-
-1. `gf_n_nodes`
-2. `gf_binary_density`
-3. `gf_total_strength`
-4. `gf_mean_strength`
-5. `gf_charpath_len_w`
-6. `gf_global_eff_w`
-7. `gf_transitivity_bin`
-8. `gf_avg_weighted_clust`
-9. `gf_n_communities`
-10. `gf_modularity_bin`
+ 
+1. `gf_binary_density`
+2. `gf_total_strength`
+3. `gf_mean_strength`
+4. `gf_charpath_len_w`
+5. `gf_global_eff_w`
+6. `gf_transitivity_bin`
+7. `gf_avg_weighted_clust`
+8. `gf_n_communities`
+9. `gf_modularity_bin`
 
 **Numero di feature globali: 10**
 
