@@ -208,17 +208,21 @@ queue
 
 
 #### Meaning of the Requested Resources
-request_cpus = 1
-Requests one CPU core
-request_gpus = 0
-No GPU is requested (CPU-only node)
-request_memory = 2048
-Requests 2 GB of RAM
-getenv = true
-Inherits the current environment variables
-rank = Memory
-Prefers nodes with more available memory
+- **`request_cpus = 1`**  
+  Requests a single CPU core for job execution.
 
+- **`request_gpus = 0`**  
+  Indicates that no GPU resources are required; the job will run on a CPU-only node.
+
+- **`request_memory = 2048`**  
+  Requests 2 GB of RAM to be allocated to the job.
+
+- **`getenv = true`**  
+  Inherits the environment variables from the submission environment.
+
+- **`rank = Memory`**  
+  Instructs the scheduler to prioritize execution on nodes with higher available memory.
+  
 ###
 Submitting an Interactive Job
 Submit the job in interactive mode using:
