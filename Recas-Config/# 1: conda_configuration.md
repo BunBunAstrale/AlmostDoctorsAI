@@ -43,7 +43,7 @@ In practice, the frontend acts as an **entry point and control node**, while all
 
 ## Overview – 3
 
-![RECAS cluster overview](figures/recas_cluster_overview_condor.jpeg)
+![RECAS cluster overview](figures/recas_cluster_overivew_condor.jpeg)
 
 Referring to the same diagram shown above, it is important to clarify how computations are actually executed on the cluster.
 
