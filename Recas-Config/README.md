@@ -218,6 +218,8 @@ queue
 - **`rank = Memory`**  
   Instructs the scheduler to prioritize execution on nodes with higher available memory.
 
+You can change the parameters as you wish. 
+
 #### Why this submission file is needed
 This submission file is used to allocate computational resources and establish an interactive session on a compute node.
 If the job is submitted without an interactive command, it will immediately terminate, because no executable or persistent task is defined—only resource requests are made.
