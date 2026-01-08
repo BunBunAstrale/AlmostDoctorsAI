@@ -11,9 +11,7 @@ E = N(N − 1) / 2
 Colonne:
 - `edge_0, edge_1, ..., edge_{E-1}`
 
-**Numero di edge feature:**
 
-E = N(N − 1) / 2
 ---
 
 ### 3. Metriche globali (`gf_*`)
@@ -31,9 +29,7 @@ Metriche globali estratte per ogni paziente:
 9. `gf_n_communities`
 10. `gf_modularity_bin`
 
-**Numero di feature globali:**
-
-10
+**Numero di feature globali: 10**
 
 ---
 
@@ -48,9 +44,7 @@ Per ogni nodo vengono calcolate **6 metriche nodali**:
 - `eigenvector_w`
 - `local_eff_bin`
 
-Poiché ogni metrica viene salvata **per ciascun nodo**, il numero totale di feature nodali è:
-
-6N
+Poiché ogni metrica viene salvata **per ciascun nodo**, il numero totale di feature nodali è: 6N
 
 ---
 
