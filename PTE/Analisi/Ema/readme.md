@@ -27,7 +27,7 @@ Metriche globali estratte per ogni paziente:
 8. `gf_n_communities`
 9. `gf_modularity_bin`
 
-**Numero di feature globali: 10**
+**Numero di feature globali: 9**
 
 ---
 
