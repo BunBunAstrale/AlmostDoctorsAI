@@ -234,10 +234,11 @@ condor_submit -interactive backend.sub
 Once the job starts, you will be connected directly to a compute node with the requested resources.
 This interactive session remains open, allowing you to:
 
-install software
-create conda environments
-test commands
-prepare scripts for batch execution
+- **`install softwares`**
+- **`create conda environments`**  
+- **`test commands`**
+- **`prepare scripts for batch execution`**
+
 
 
 #### Important Notes on Interactive Jobs
