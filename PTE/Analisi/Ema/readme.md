@@ -2,34 +2,18 @@
 
 Sia **N** il numero di nodi della matrice di connettività (matrice \(N \times N\)).
 
----
-
-### 1. Identificativi (NON feature)
-
-Queste colonne sono metadati e **non fanno parte del feature space**:
-
-- `id`
-- `label`
-
----
-
-### 2. Edge features (triangolo superiore)
+### Edge features (triangolo superiore)
 
 Poiché le matrici sono simmetriche con diagonale nulla, il numero di edge salvati è:
 
-\[
-E = \frac{N(N-1)}{2}
-\]
+E = N(N − 1) / 2
 
 Colonne:
 - `edge_0, edge_1, ..., edge_{E-1}`
 
 **Numero di edge feature:**
 
-\[
-\boxed{\frac{N(N-1)}{2}}
-\]
-
+E = N(N − 1) / 2
 ---
 
 ### 3. Metriche globali (`gf_*`)
@@ -49,9 +33,7 @@ Metriche globali estratte per ogni paziente:
 
 **Numero di feature globali:**
 
-\[
-\boxed{10}
-\]
+10
 
 ---
 
@@ -68,24 +50,12 @@ Per ogni nodo vengono calcolate **6 metriche nodali**:
 
 Poiché ogni metrica viene salvata **per ciascun nodo**, il numero totale di feature nodali è:
 
-\[
-\boxed{6 \times N}
-\]
+6N
 
 ---
 
 ## 🔢 Numero totale di feature (feature space)
 
-Escludendo `id` e `label`, il numero totale di feature per ogni paziente è:
-
-\[
-\boxed{
-\frac{N(N-1)}{2}
-\;+\;
-6N
-\;+\;
-10
-}
-\]
+ N(N − 1) / 2 + 6N + 10
 
 
