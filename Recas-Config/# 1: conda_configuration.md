@@ -65,7 +65,7 @@ Before running jobs on the RECAS cluster, it is strongly recommended to install 
 ### Step 0: Login to the ReCaS cluster
 
 If you followed the guide  
-[0: Local machine configuration](0:local_machine_config.md)
+[0: Local machine configuration](./0:local_machine_config.md)
 
 you can connect to ReCaS using the alias:
 
