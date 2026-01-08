@@ -20,7 +20,7 @@ These steps are mandatory before proceeding with any job submission or configura
 
 To better understand how the cluster works, let us first introduce a simple conceptual diagram.
 
-![RECAS cluster overview](figures/recas_cluster_overview.png)
+![RECAS cluster overview](figures/recas_cluster_overview.jpeg)
 
 From this diagram, it is important to note that when you log into the cluster, you are **connected to the machine called the frontend**.
 
