@@ -166,8 +166,6 @@ It is only used to:
 
 To actually work on a compute node, we use **HTCondor in interactive mode**.
 
----
-
 ### Where This Is Done
 
 All the following steps are performed **from the frontend**:
@@ -184,9 +182,7 @@ To access a compute node, you must submit an **interactive HTCondor job**.
 
 This gives you a temporary shell on a compute node with the resources you request, and keeps the session open while you work.
 
----
-
-### Example: `backend.sub`
+### Let's start: 'backend.sub'"
 
 Create a file called `backend.sub` **on the frontend**  
 (or download it from the repository: `files/backend.sub`).
@@ -206,7 +202,6 @@ rank = Memory
 queue
 ```
 
-
 #### Meaning of the Requested Resources
 - **`request_cpus = 1`**  
   Requests a single CPU core for job execution.
@@ -222,7 +217,17 @@ queue
 
 - **`rank = Memory`**  
   Instructs the scheduler to prioritize execution on nodes with higher available memory.
-  
+
+#### Why this submission file is needed
+This submission file is used to allocate computational resources and establish an interactive session on a compute node.
+If the job is submitted without an interactive command, it will immediately terminate, because no executable or persistent task is defined—only resource requests are made.
+
+By using an interactive job, you gain direct access to the allocated node and can work on it continuously until the session is explicitly closed.
+In other words, the interactive mode keeps the job alive, allowing you to:
+- Use the allocated CPU and memory interactively
+- Run commands manually on the compute node
+- Maintain control of the session for as long as needed
+
 ###
 Submitting an Interactive Job
 Submit the job in interactive mode using:
