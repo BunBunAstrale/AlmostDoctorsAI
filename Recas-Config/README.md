@@ -248,6 +248,11 @@ This is what it will look like if everything worked fine:
  
 ![RECAS cluster overview](figures/welcome_to_a_node.png)
 
+### continue guide later 
+### at this point you can create the env alone from this point on
+### later on this will be written here 
+
+
 #### Important Notes on Interactive Jobs
 The more resources you request, the longer the waiting time may be.
 Always request the minimum resources needed.
