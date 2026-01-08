@@ -62,6 +62,13 @@ Before running jobs on the RECAS cluster, it is strongly recommended to install 
 
 ---
 
+### Step 0: Login in the ReCas cluster
+
+```bash
+ssh username@ui-al9.recas.ba.infn.it
+```
+
+
 ### Step 1: Download and install Miniconda
 
 Download the Miniconda installer for Linux from the official documentation:
