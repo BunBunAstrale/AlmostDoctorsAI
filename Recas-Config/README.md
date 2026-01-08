@@ -238,8 +238,9 @@ This interactive session remains open, allowing you to:
 - **`create conda environments`**  
 - **`test commands`**
 - **`prepare scripts for batch execution`**
-
-
+- 
+This is what it will look like if everything worked fine 
+![RECAS cluster overview](figures/welcome_to_a_node.png)
 
 #### Important Notes on Interactive Jobs
 The more resources you request, the longer the waiting time may be.
