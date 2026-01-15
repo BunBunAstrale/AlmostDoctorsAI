@@ -272,10 +272,16 @@ This is what it will look like if everything worked fine:
  
 ![RECAS cluster overview](figures/welcome_to_a_node.png)
 
-### continue guide later 
-### at this point you can create the env alone from this point on
-### later on this will be written here 
 
+###
+
+At this point you are inside the cluster. Here, if everything is correctly configured, you can create your own env, with 
+
+
+```bash
+conda create YOUR_ENV_NAME python==YOUR_PYTHON_VERSION
+```
+and proceed creating your own env with the requirements you need.
 
 #### Important Notes on Interactive Jobs
 The more resources you request, the longer the waiting time may be.
